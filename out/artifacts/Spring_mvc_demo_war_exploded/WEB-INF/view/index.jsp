@@ -12,5 +12,9 @@
   </head>
   <body>
   <h1>Spring MVC</h1>
+  <hr>
+  <a href="hello/showForm">Hello World Show Form</a>
+  <br/>
+  <a href="student/showForm">Student Form</a>
   </body>
 </html>
